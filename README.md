@@ -1,4 +1,4 @@
-# This a react portfolio template
+# react portfolio
 
 ## Technologies
 
