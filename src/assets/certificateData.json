@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Internship Certificate",
+    "organisation":"PLG Works",
+    "links": [
+      {
+        "title": "view certificate",
+        "url": "https://drive.google.com/file/d/1_CX-juvtH5oGnuu0_BXJQ_MrfYXwVMDh/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "title": "Back-end Web Development Training ",
+    "organisation":"Internshala",
+    "links": [
+      {
+        "title": "view certificate",
+        "url": "https://drive.google.com/file/d/1cGai-7vZXB3xdgkIV9diUbB-WoIXEj96/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "title": "Front-end Web Development Training",
+    "organisation":"Internshala",
+    "links": [
+      {
+        "title": "view certificate",
+        "url": "https://drive.google.com/file/d/1XC7ZnIFXFOufr0RL18Cr-zHqcBKxfOBX/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "title": "General Aptitude Training",
+    "organisation":"Internshala",
+    "links": [
+      {
+        "title": "view certificate",
+        "url": "https://drive.google.com/file/d/1q7R4fqDFIoT9ap7lMFRoh1wTDQqInVBB/view?usp=drive_link"
+      }
+    ]
+  }
+]
