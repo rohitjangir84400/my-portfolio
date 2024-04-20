@@ -4,6 +4,9 @@ import SA from '../assets/p2.png';
 import SMT from '../assets/p4.png';
 import FSW from '../assets/P5.png';
 import EM from '../assets/p1.png';
+import web from '../assets/p6.png';
+import modal from '../assets/p7.png';
+import initialsteps from '../assets/p8.png'
 
 export default function Projects() {
   return (
@@ -61,7 +64,7 @@ const projects = [
       },
       {
         icon: <i className="devicon-github-original"></i>,
-        link: 'https://github.com/rohitjangir84400',
+        link: 'https://github.com/rohitjangir84400/enjoymovi',
       },
     ],
   },
@@ -72,7 +75,7 @@ const projects = [
     links: [
       {
         icon: <i className="devicon-github-original"></i>,
-        link: 'https://github.com/rohitjangir84400',
+        link: 'https://github.com/rohitjangir84400/ecommerce',
       },
     ],
   },
@@ -83,7 +86,7 @@ const projects = [
     links: [
       {
         icon: <i className="devicon-github-original"></i>,
-        link: 'https://github.com/rohitjangir84400',
+        link: 'https://github.com/rohitjangir84400/socialmedia',
       },
     ],
   },
@@ -94,7 +97,7 @@ const projects = [
     links: [
       {
         icon: <i className="devicon-github-original"></i>,
-        link: 'https://github.com/rohitjangir84400',
+        link: 'https://github.com/rohitjangir84400/salesapp',
       },
     ],
   },
@@ -105,7 +108,55 @@ const projects = [
     links: [
       {
         icon: <i className="devicon-github-original"></i>,
-        link: 'https://github.com/rohitjangir84400',
+        link: 'https://github.com/rohitjangir84400/front-end-project',
+      },
+    ],
+  },
+  {
+    title: 'Web page design',
+    details:
+      'Responsive Web page design using react and tailwind css with fade in animation when component comes in the view port.',
+    img: web,
+    links: [
+      {
+        icon: 'Live',
+        link: 'https://aeonaxy-web-page-design.netlify.app',
+      },
+      {
+        icon: <i className="devicon-github-original"></i>,
+        link: 'https://github.com/rohitjangir84400/aeonaxy-project',
+      },
+    ],
+  },
+  {
+    title: 'Modal desing front-end',
+    details:
+      'Responsive meeting schedule modal using react and tailwind css to open modal click on get  a demo.',
+    img: modal,
+    links: [
+      {
+        icon: 'Live',
+        link: 'https://aneonaxy-meeting-schedule-modal.netlify.app',
+      },
+      {
+        icon: <i className="devicon-github-original"></i>,
+        link: ' https://github.com/rohitjangir84400/aeonaxy-meeting-schedule',
+      },
+    ],
+  },
+  {
+    title: 'Web page design with initial stepper',
+    details:
+      'Responsive web page design with initial steps to move through these using react and tailwind css to open modal click on get  a demo.',
+    img: initialsteps,
+    links: [
+      {
+        icon: 'Live',
+        link: 'https://aeonaxy-web-development-project.netlify.app',
+      },
+      {
+        icon: <i className="devicon-github-original"></i>,
+        link: 'https://github.com/rohitjangir84400/aeonaxy-web-development-project',
       },
     ],
   },
